@@ -1,4 +1,4 @@
-# <img width="24" height="24" src="docs/assets/logo.svg"> Create Pull Request
+# <img width="24" height="24" src="docs/assets/logo.svg"> Create Pull Request (Enable v7 in org)
 [![CI](https://github.com/peter-evans/create-pull-request/workflows/CI/badge.svg)](https://github.com/peter-evans/create-pull-request/actions?query=workflow%3ACI)
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Create%20Pull%20Request-blue.svg?colorA=24292e&colorB=0366d6&style=flat&longCache=true&logo=github)](https://github.com/marketplace/actions/create-pull-request)
 
